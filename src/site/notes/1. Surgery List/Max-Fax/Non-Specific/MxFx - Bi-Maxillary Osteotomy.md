@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-surgery-list/max-fax/non-specific/mx-fx-bi-maxillary-osteotomy/"}
+{"Alias":[null],"Photo":[null],"Type":["Set-up"],"Specialty":["Max-Fax"],"Category":[null],"Restock":[null],"Reference":[null],"Location":[null],"Compatibility":[null],"Status":[null],"cssclasses":[null],"dg-publish":true,"permalink":"/1-surgery-list/max-fax/non-specific/mx-fx-bi-maxillary-osteotomy/","dgPassFrontmatter":true}
 ---
 
 
