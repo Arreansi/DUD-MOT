@@ -5,28 +5,25 @@
 
 
 >[!Multi-Column]
+>>[!lib1] [[0.  Introductory/Surgery List\|Surgery List]]
 >
-><br>
+>>[!Item] [[0.  Introductory/Instruments\|Instruments]]
 >
->>[!lib1|center] [[0.  Introductory/Surgery List\|Surgery List]]
+>>[!Supply] [[0.  Introductory/Supplies\|Supplies]]
 >
->>[!Item|center] [[0.  Introductory/Instruments\|Instruments]]
->
->>[!Supply|center] [[0.  Introductory/Supplies\|Supplies]]
->
->>[!Equip|center] [[0.  Introductory/Equipment\|Equipment]]
+>>[!Equip] [[0.  Introductory/Equipment\|Equipment]]
 
 
 ---
 
 >[!example] Newest Updates
-> | File                                                                                                     | Last Modified             |
-> | -------------------------------------------------------------------------------------------------------- | ------------------------- |
-> | [[0.  Introductory/Home\|Home]]                                                                       | 11:14 AM - March 03, 2025 |
-> | [[1. Surgery List/Max-Fax/Non-Specific/MxFx - Bi-Maxillary Osteotomy\|MxFx - Bi-Maxillary Osteotomy]] | 10:55 AM - March 03, 2025 |
-> | [[0.  Introductory/Untitled 1\|Untitled 1]]                                                           | 8:35 PM - March 02, 2025  |
-> | [[0.  Introductory/Untitled\|Untitled]]                                                               | 7:13 PM - March 01, 2025  |
-> | [[9. Template/Update Publish Files\|Update Publish Files]]                                            | 12:42 PM - March 01, 2025 |
+> | File                                               | Last Modified             |
+> | -------------------------------------------------- | ------------------------- |
+> | [[0.  Introductory/Home\|Home]]                 | 11:16 AM - March 03, 2025 |
+> | [[0.  Introductory/Surgery List\|Surgery List]] | 11:15 AM - March 03, 2025 |
+> | [[0.  Introductory/Supplies\|Supplies]]         | 11:15 AM - March 03, 2025 |
+> | [[0.  Introductory/Instruments\|Instruments]]   | 11:15 AM - March 03, 2025 |
+> | [[0.  Introductory/Equipment\|Equipment]]       | 11:15 AM - March 03, 2025 |
 > 
 { .block-language-dataview}
 
