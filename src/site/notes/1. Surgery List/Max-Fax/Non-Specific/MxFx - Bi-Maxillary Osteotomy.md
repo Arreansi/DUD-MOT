@@ -49,18 +49,18 @@
 >>>[!MxFx] Max-Fax Trolley
 >>>>[!Multi-Column]
 >>>>>[!Item] Instruments
-| #   | Instruments        | Loc.                           | Note                                                                |
-| --- | ------------------ | ------------------------------ | ------------------------------------------------------------------- |
-| 1   | [[2. Instruments/Max-Fax Trolley/Second Drawer/Dental Syringe\|Dental Syringe]] | [[2. Instruments/Main - Instrument Shelf/H#H-4\|H-4]],[[2. Instruments/Max-Fax Trolley/Max-Fax Trolley#Second Drawer\|Max-Fax Trolley > Second Drawer]] |                                                                     |
-| 1   | [[2. Instruments/Max-Fax Trolley/Second Drawer/Mouth Props\|Mouth Props]]    | [[2. Instruments/Max-Fax Trolley/Max-Fax Trolley#Second Drawer\|Max-Fax Trolley > Second Drawer]]    | Not required to count if used during pre-incision local anesthesia. |
+>>>>>| #   | Instruments        | Loc.                           | Note                                                                |
+>>>>>| --- | ------------------ | ------------------------------ | ------------------------------------------------------------------- |
+>>>>>| 1   | [[2. Instruments/Max-Fax Trolley/Second Drawer/Dental Syringe\|Dental Syringe]] | [[2. Instruments/Main - Instrument Shelf/H#H-4\|H-4]],[[2. Instruments/Max-Fax Trolley/Max-Fax Trolley#Second Drawer\|Max-Fax Trolley > Second Drawer]] |                                                                     |
+>>>>>| 1   | [[2. Instruments/Max-Fax Trolley/Second Drawer/Mouth Props\|Mouth Props]]    | [[2. Instruments/Max-Fax Trolley/Max-Fax Trolley#Second Drawer\|Max-Fax Trolley > Second Drawer]]    | Not required to count if used during pre-incision local anesthesia. |
 >>>>
 >>>>>[!Supply] Supplies
-| #   | Supplies                 | Loc.                                     | Note |
-| --- | ------------------------ | ---------------------------------------- | ---- |
-| 1   | [[2. Instruments/Max-Fax Trolley/Top Layer/Kidney Dish - Unsterile\|Kidney Dish - Unsterile]]  | [[2. Instruments/Max-Fax Trolley/Max-Fax Trolley#Top Layer\|Max-Fax Trolley > Top Layer]]  |      |
-| 4   | [[2. Instruments/Max-Fax Trolley/Second Drawer/Dental Syringe Cartridge\|Dental Syringe Cartridge]] | [[2. Instruments/Max-Fax Trolley/Max-Fax Trolley#Second Drawer\|Max-Fax Trolley > Second Drawer]] |      |
-| 2   | [[2. Instruments/Max-Fax Trolley/Second Drawer/Dental Syringe Needle\|Dental Syringe Needle]]    | [[2. Instruments/Max-Fax Trolley/Max-Fax Trolley#Second Drawer\|Max-Fax Trolley > Second Drawer]]    |      |
-| 1   | [[3. Supplies/Main - Supply Shelf/cF/cF-3/Wooden Spatula\|Wooden Spatula]]           | [[3. Supplies/Main - Supply Shelf/CF#CF-3\|CF-3]],[[2. Instruments/Max-Fax Trolley/Max-Fax Trolley#Second Drawer\|Max-Fax Trolley > Second Drawer]]           |      |
+>>>>>| #   | Supplies                 | Loc.                                     | Note |
+>>>>>| --- | ------------------------ | ---------------------------------------- | ---- |
+>>>>>| 1   | [[2. Instruments/Max-Fax Trolley/Top Layer/Kidney Dish - Unsterile\|Kidney Dish - Unsterile]]  | [[2. Instruments/Max-Fax Trolley/Max-Fax Trolley#Top Layer\|Max-Fax Trolley > Top Layer]]  |      |
+>>>>>| 4   | [[2. Instruments/Max-Fax Trolley/Second Drawer/Dental Syringe Cartridge\|Dental Syringe Cartridge]] | [[2. Instruments/Max-Fax Trolley/Max-Fax Trolley#Second Drawer\|Max-Fax Trolley > Second Drawer]] |      |
+>>>>>| 2   | [[2. Instruments/Max-Fax Trolley/Second Drawer/Dental Syringe Needle\|Dental Syringe Needle]]    | [[2. Instruments/Max-Fax Trolley/Max-Fax Trolley#Second Drawer\|Max-Fax Trolley > Second Drawer]]    |      |
+>>>>>| 1   | [[3. Supplies/Main - Supply Shelf/cF/cF-3/Wooden Spatula\|Wooden Spatula]]           | [[3. Supplies/Main - Supply Shelf/CF#CF-3\|CF-3]],[[2. Instruments/Max-Fax Trolley/Max-Fax Trolley#Second Drawer\|Max-Fax Trolley > Second Drawer]]           |      |
 >>>>>
 >
 ><br>
