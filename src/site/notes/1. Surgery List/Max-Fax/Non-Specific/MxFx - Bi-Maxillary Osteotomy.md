@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-surgery-list/max-fax/non-specific/mx-fx-bi-maxillary-osteotomy/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/1-surgery-list/max-fax/non-specific/mx-fx-bi-maxillary-osteotomy/"}
 ---
 
 
