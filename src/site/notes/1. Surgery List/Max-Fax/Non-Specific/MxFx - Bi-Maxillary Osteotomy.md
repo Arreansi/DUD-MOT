@@ -9,9 +9,9 @@
 >[!MxFx] MxFx - Bi-Maxillary Osteotomy
 >>[!multi-column]
 >>>[!Blank]
->>>![MxFx - Basic Set-up.png](/img/user/Images/Other/MxFx%20-%20Basic%20Set-up.png)
+>>>![MxFx - Basic Set-up.png|500](/img/user/Images/Other/MxFx%20-%20Basic%20Set-up.png)
 >>
->>>[!Information] Theatre Set-Up
+>>>[!Info] Theatre Set-Up
 >>>>[!multi-column]
 >>>>>[!Equip] Equipment
 >>>>>- Diathermy Machine
