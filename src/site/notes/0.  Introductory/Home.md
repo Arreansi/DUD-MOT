@@ -17,13 +17,13 @@
 ---
 
 >[!example] Newest Updates
-> | File                                               | Last Modified             |
-> | -------------------------------------------------- | ------------------------- |
-> | [[0.  Introductory/Home\|Home]]                 | 11:16 AM - March 03, 2025 |
-> | [[0.  Introductory/Surgery List\|Surgery List]] | 11:15 AM - March 03, 2025 |
-> | [[0.  Introductory/Supplies\|Supplies]]         | 11:15 AM - March 03, 2025 |
-> | [[0.  Introductory/Instruments\|Instruments]]   | 11:15 AM - March 03, 2025 |
-> | [[0.  Introductory/Equipment\|Equipment]]       | 11:15 AM - March 03, 2025 |
+> | File                                                                      | Last Modified             |
+> | ------------------------------------------------------------------------- | ------------------------- |
+> | [[4. Equipment/Machine List/Accriva Diagnostics\|Accriva Diagnostics]] | 11:19 AM - March 03, 2025 |
+> | [[2. Instruments/Main - Instrument Shelf/D\|D]]                        | 11:19 AM - March 03, 2025 |
+> | [[0.  Introductory/Surgery List\|Surgery List]]                        | 11:18 AM - March 03, 2025 |
+> | [[0.  Introductory/Home\|Home]]                                        | 11:16 AM - March 03, 2025 |
+> | [[0.  Introductory/Supplies\|Supplies]]                                | 11:15 AM - March 03, 2025 |
 > 
 { .block-language-dataview}
 
