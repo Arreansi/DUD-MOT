@@ -17,10 +17,20 @@
 ---
 
 >[!example] Newest Updates
->```dataview
->TABLE file.mtime as "Last Modified"
->SORT file.mtime DESC
->LIMIT 5
+> | File                                                          | Last Modified             |
+> | ------------------------------------------------------------- | ------------------------- |
+> | [[0.  Introductory/Home\|Home]]                            | 8:44 PM - March 02, 2025  |
+> | [[0.  Introductory/Untitled 1\|Untitled 1]]                | 8:35 PM - March 02, 2025  |
+> | [[0.  Introductory/Untitled\|Untitled]]                    | 7:13 PM - March 01, 2025  |
+> | [[9. Template/Update Publish Files\|Update Publish Files]] | 12:42 PM - March 01, 2025 |
+> | [[0.  Introductory/Surgery List\|Surgery List]]            | 12:00 PM - March 01, 2025 |
+> 
+{ .block-language-dataview}dataview
+TABLE file.mtime as "Last Modified"
+SORT file.mtime DESC
+LIMIT 5
+```
+
 
 
 ---
